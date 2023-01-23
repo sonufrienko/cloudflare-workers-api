@@ -1,0 +1,6 @@
+name = "api"
+main = "src/index.ts"
+compatibility_date = "2023-01-23"
+kv_namespaces = [
+    { binding = "API_STOCKS", id = "c825d19c4a954509bb016f16d8814c54", preview_id = "8ad3e46a25a5482da72504f11b8762e7" }
+]
